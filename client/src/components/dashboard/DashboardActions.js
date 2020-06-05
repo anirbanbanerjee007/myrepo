@@ -8,7 +8,7 @@ const DashboardActions = () => {
       </Link>
 
       <Link to='/add-experience' class='btn btn-light'>
-        <i class='fab fa-black-tie text-primary'>Add Experience</i>
+        <i class='fas fa-black-tie text-primary'>Add Experience</i>
       </Link>
 
       <Link to='/add-education' class='btn btn-light'>
